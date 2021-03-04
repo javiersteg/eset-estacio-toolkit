@@ -2,7 +2,10 @@
 
 ## Prerequisites
 Install docker in host computer
-https://www.digitalocean.com/community/tutorials/como-instalar-y-usar-docker-en-ubuntu-16-04-es
+https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-on-ubuntu-20-04-es
+
+You can install on ubuntu typing
+$ sudo apt-get install docker.io ##Pay atention that this is the ubuntu maintained  version.
 
 Install noVNC in host computer or any VNC desktop app like xvnc4viewer
 We'll use it to connect docker running container
